@@ -120,8 +120,7 @@ tr#nivel6 {
 
 td#vacio {
     empty-cells: hide;
-    background-color: transparent;
-    
+    background-color: rgb(62, 59, 59);
 }
 
 td#bola {
