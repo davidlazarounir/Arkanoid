@@ -120,6 +120,7 @@ tr#nivel6 {
 
 td#vacio {
     empty-cells: hide;
+    background-color: none;
     
 }
 
